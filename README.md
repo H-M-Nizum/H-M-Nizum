@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://h-m-nizum.github.io/My_PROTFOLIO/](https://h-m-nizum.github.io/My_PROTFOLIO/)
+- 👨‍💻 All of my projects are available at [PROTFOLIO](https://h-m-nizum.github.io/My_PROTFOLIO/)
 
 - 💬 Ask me about **Python, C++, JavaScript, Django, sql**
 
-- 📫 How to reach me **https://www.linkedin.com/in/hm-nizum-32n/**
+- 📫 How to reach me [LINKEDIN](https://www.linkedin.com/in/hm-nizum-32n/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t5hmgQgTc9VQPYfg87MbQxExmbCP97Sd/view?usp=sharing](https://drive.google.com/file/d/1t5hmgQgTc9VQPYfg87MbQxExmbCP97Sd/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1t5hmgQgTc9VQPYfg87MbQxExmbCP97Sd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
