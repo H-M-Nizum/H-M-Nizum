@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-m-nizum" alt="h-m-nizum" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [PROTFOLIO](https://h-m-nizum.github.io/My_PROTFOLIO/)
 
-- 💬 Ask me about **Python, C++, JavaScript, Django, sql**
+- 💬 Ask me about **Python, C++, JavaScript, Django, FasatAPI, sql**
 
 - 📫 How to reach me [LINKEDIN](https://www.linkedin.com/in/hm-nizum-32n/)
 
